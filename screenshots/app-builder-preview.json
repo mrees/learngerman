@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Klarheft",
+      "hasCanvas": false,
+      "bodyTextLen": 746,
+      "bodyTextHash": "a1beb1bb7d74306170090ce06102ddc57417e0b38292155649228a59e3974264",
+      "bodyTextPrefix": "Klarheft German, plainly. Desk Study Dictionary Corrections Skip",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Klarheft",
+      "hasCanvas": false,
+      "bodyTextLen": 789,
+      "bodyTextHash": "947e103d1f3616433f1a4a2cf23607aa0fac4f0466bd613eda55ae5236bb8ff8",
+      "bodyTextPrefix": "Skip to content Klarheft Willkommen. A quiet course in German. W",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

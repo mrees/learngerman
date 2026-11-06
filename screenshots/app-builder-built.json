@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Klarheft",
+      "hasCanvas": false,
+      "bodyTextLen": 795,
+      "bodyTextHash": "889bfaefa9a50936486532850994830d4d366910162a9b343b77930cc4a51a54",
+      "bodyTextPrefix": "Klarheft German, plainly. Desk Study Dictionary Corrections Skip",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Klarheft",
+      "hasCanvas": false,
+      "bodyTextLen": 778,
+      "bodyTextHash": "2d34791f1f018a509329c9cda936f5e23e316bf50dbcb4a20ff4ba8781762755",
+      "bodyTextPrefix": "Skip to content Klarheft Guten Abend. Good evening. Words, sente",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
